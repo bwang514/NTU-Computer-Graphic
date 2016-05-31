@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerHealth.cs">
+    <Files>
+      <File FileName="Assets/enemy_fire.cs" Line="3" Column="1" />
+      <File FileName="Assets/2.scripts/fire.cs" Line="1" Column="1" />
+      <File FileName="Assets/EnemyBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/2.scripts/tankMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Health.cs" Line="22" Column="2" />
+      <File FileName="Assets/PlayerHealth.cs" Line="16" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hao/Desktop/cghw2/Assets/enemy_fire.cs" line="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
